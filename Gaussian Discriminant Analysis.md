@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # 1. Gaussian Discriminant Analysis
 
 First of all, the Bayes' Formula:
